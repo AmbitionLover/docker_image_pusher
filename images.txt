@@ -6,4 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 
 
-elasticsearch/alist:8.7.0
+elasticsearch:8.7.0
